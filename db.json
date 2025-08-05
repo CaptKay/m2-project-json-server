@@ -1,15 +1,4 @@
 {
-  "users": [
-    {
-      "id": "user-uuid-1",
-      "username": "janedoe",
-      "email": "jane@example.com",
-      "password": "janepassword",
-      "bio": "React enthusiast and author.",
-      "profileImage": "https://res.cloudinary.com/your-cloud/image/upload/v123456789/profilepic.jpg",
-      "isAuthor": true
-    }
-  ],
   "stories": [
     {
       "id": "story-uuid-1",
