@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "user-uuid-1",
+      "username": "janedoe",
+      "email": "jane@example.com",
+      "password": "janepassword",
+      "bio": "React enthusiast and author.",
+      "profileImage": "https://res.cloudinary.com/your-cloud/image/upload/v123456789/profilepic.jpg",
+      "isAuthor": true
+    }
+  ],
+  "stories": [
+    {
+      "id": "story-uuid-1",
+      "title": "Sample Story",
+      "description": "A quick summary.",
+      "content": "This is the story.",
+      "coverImage": "https://images.unsplash.com/photo-example.jpg",
+      "author": "Jane Doe",
+      "authorId": "user-uuid-1",
+      "status": "published",
+      "genre": [
+        "Fantasy",
+        "Advanture"
+      ],
+      "createdAt": "2025-07-01T09:00:00.000Z",
+      "updatedAt": "2025-07-01T09:00:00.000Z"
+    }
+  ]
+}
