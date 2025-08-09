@@ -1,20 +1,50 @@
 {
   "stories": [
     {
-      "id": "story-uuid-1",
-      "title": "Sample Story",
-      "description": "A quick summary.",
-      "content": "This is the story.",
-      "coverImage": "https://images.unsplash.com/photo-example.jpg",
-      "author": "Jane Doe",
-      "authorId": "user-uuid-1",
+      "id": "3f6b5fbb-7d74-43a4-bfc3-2fef89fe45a5",
+      "title": "test story",
+      "description": "test story",
+      "content": "test story",
+      "coverImage": "https://res.cloudinary.com/dhnbwafjv/image/upload/v1754461257/qe9hpls5udoktzk3zuou.png",
       "status": "published",
-      "genre": [
+      "genres": [
         "Fantasy",
-        "Advanture"
+        "Science Fiction",
+        "Mystery"
       ],
-      "createdAt": "2025-07-01T09:00:00.000Z",
-      "updatedAt": "2025-07-01T09:00:00.000Z"
+      "createdAt": "2025-08-06T06:21:13.647Z",
+      "updatedAt": "2025-08-06T06:21:13.647Z"
+    },
+    {
+      "id": "60d4b7dd-5ded-4989-b03a-6804d6c08205",
+      "title": "test 1",
+      "description": "test 1",
+      "content": "test 1",
+      "coverImage": "https://res.cloudinary.com/dhnbwafjv/image/upload/v1754461587/bqmrxnoavf6lvbbuafdp.png",
+      "status": "draft",
+      "genres": [
+        "Other",
+        "Adventure",
+        "Horror",
+        "Literary"
+      ],
+      "createdAt": "2025-08-06T06:26:49.394Z",
+      "updatedAt": "2025-08-06T06:26:49.394Z"
+    },
+    {
+      "id": "45d52879-40f3-459e-9bc0-cbe0a5096337",
+      "title": "Test1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "coverImage": "https://res.cloudinary.com/dhnbwafjv/image/upload/v1754729769/ipwibidhrv6ynefb5wdu.jpg",
+      "status": "published",
+      "genres": [
+        "Other",
+        "Adventure",
+        "Literary"
+      ],
+      "createdAt": "2025-08-09T08:56:25.147Z",
+      "updatedAt": "2025-08-09T08:56:25.147Z"
     }
   ]
 }
